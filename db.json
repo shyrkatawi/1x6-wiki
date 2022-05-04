@@ -7,61 +7,61 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/call_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_axe/img/call_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/call_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/call_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/call_5_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_5.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/call_5_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_5.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/call_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/call_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/call_1_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_1.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/call_1_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_1.webm"
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/call_2_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/call_2_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/call_3_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_3.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/call_3_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_call_3.webm"
             }
           ]
         },
@@ -69,60 +69,60 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/hunger_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_hunger_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_axe/img/hunger_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_hunger_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/hunger_4_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/hunger_4_png.png",
               "videoUrl": ""
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/hunger_5_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_hunger_5.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/hunger_5_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_hunger_5.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/hunger_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_hunger_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/hunger_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_hunger_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/hunger_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/hunger_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/hunger_2_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/hunger_2_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/hunger_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/hunger_3_png.png",
               "videoUrl": ""
             }
           ]
@@ -131,60 +131,60 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/helix_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_helix_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_axe/img/helix_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_helix_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/helix_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_helix_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/helix_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_helix_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/helix_5_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/helix_5_png.png",
               "videoUrl": ""
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/helix_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_helix_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/helix_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_helix_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/helix_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/helix_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/helix_2_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/helix_2_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/helix_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/helix_3_png.png",
               "videoUrl": ""
             }
           ]
@@ -193,34 +193,34 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/culling_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_culling_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_axe/img/culling_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_culling_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/culling_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_culling_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/culling_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_culling_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/culling_5_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_culling_5.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/culling_5_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_culling_5.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/culling_6_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/culling_6_png.png",
               "videoUrl": ""
             }
           ],
@@ -228,32 +228,32 @@
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/culling_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/culling_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/culling_2_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_culling_2.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/culling_2_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_culling_2.webm"
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/culling_3_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/video/modifier_axe_culling_3.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_axe/img/culling_3_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_axe/video/modifier_axe_culling_3.webm"
             }
           ]
         }
       },
       "attribute": "strength",
-      "portraitImg": "http://localhost:3000/assets/heroes/npc_dota_hero_axe/img/portrait.png",
+      "portraitImg": "assets/heroes/npc_dota_hero_axe/img/portrait.png",
       "id": 1,
       "attackType": "melee"
     },
@@ -264,34 +264,34 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manabreak_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_break_7.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manabreak_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_break_7.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manabreak_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_break_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manabreak_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_break_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manabreak_5_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_break_5.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manabreak_5_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_break_5.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manabreak_6_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manabreak_6_png.png",
               "videoUrl": ""
             }
           ],
@@ -299,25 +299,25 @@
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manabreak_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manabreak_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manabreak_2_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_break_2.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manabreak_2_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_break_2.webm"
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manabreak_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manabreak_3_png.png",
               "videoUrl": ""
             }
           ]
@@ -326,60 +326,60 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/antimage_blink_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_blink_7.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_antimage/img/antimage_blink_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_blink_7.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/antimage_blink_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_blink_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/antimage_blink_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_blink_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/antimage_blink_5_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/antimage_blink_5_png.png",
               "videoUrl": ""
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/antimage_blink_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_blink_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/antimage_blink_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_blink_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/antimage_blink_1_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_blink_1.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/antimage_blink_1_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_blink_1.webm"
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/antimage_blink_2_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_blink_2.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/antimage_blink_2_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_blink_2.webm"
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/antimage_blink_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/antimage_blink_3_png.png",
               "videoUrl": ""
             }
           ]
@@ -388,60 +388,60 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/counterspell_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_counter_7.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_antimage/img/counterspell_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_counter_7.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/counterspell_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_counter_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/counterspell_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_counter_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/counterspell_5_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_counter_5.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/counterspell_5_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_counter_5.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/counterspell_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_counter_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/counterspell_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_counter_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/counterspell_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/counterspell_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/counterspell_2_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_counter_2.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/counterspell_2_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_counter_2.webm"
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/counterspell_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/counterspell_3_png.png",
               "videoUrl": ""
             }
           ]
@@ -450,67 +450,67 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manavoid_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_void_7.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manavoid_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_void_7.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manavoid_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_void_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manavoid_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_void_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manavoid_5_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_void_5.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manavoid_5_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_void_5.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manavoid_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_void_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manavoid_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_antimage/video/modifier_antimage_void_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manavoid_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manavoid_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manavoid_2_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manavoid_2_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/manavoid_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_antimage/img/manavoid_3_png.png",
               "videoUrl": ""
             }
           ]
         }
       },
       "attribute": "agility",
-      "portraitImg": "http://localhost:3000/assets/heroes/npc_dota_hero_antimage/img/portrait.png",
+      "portraitImg": "assets/heroes/npc_dota_hero_antimage/img/portrait.png",
       "id": 2,
       "attackType": "melee"
     },
@@ -521,60 +521,60 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_5_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_5_png.png",
               "videoUrl": ""
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_2_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_2.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_2_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_2.webm"
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_3_png.png",
               "videoUrl": ""
             }
           ]
@@ -583,61 +583,61 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_5_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_5.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_5_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_5.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_1_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_1.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_1_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_1.webm"
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_2_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_2_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_3_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_3.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_3_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_3.webm"
             }
           ]
         },
@@ -645,60 +645,60 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_5_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_5_png.png",
               "videoUrl": ""
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_2_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_2_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_3_png.png",
               "videoUrl": ""
             }
           ]
@@ -707,67 +707,67 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_4_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_4_png.png",
               "videoUrl": ""
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_5_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_5.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_5_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_5.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_2_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_2_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_3_png.png",
               "videoUrl": ""
             }
           ]
         }
       },
       "attribute": "intelligence",
-      "portraitImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/portrait.png",
+      "portraitImg": "assets/heroes/npc_dota_hero_lina/img/portrait.png",
       "id": 3,
       "attackType": "range"
     },
@@ -778,60 +778,60 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_5_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_5_png.png",
               "videoUrl": ""
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_2_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_2.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_2_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_dragon_2.webm"
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/dragon_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/dragon_3_png.png",
               "videoUrl": ""
             }
           ]
@@ -840,61 +840,61 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_5_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_5.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_5_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_5.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_1_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_1.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_1_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_1.webm"
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_2_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_2_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/array_3_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_3.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/array_3_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_array_3.webm"
             }
           ]
         },
@@ -902,60 +902,60 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_4_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_4.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_4_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_4.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_5_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_5_png.png",
               "videoUrl": ""
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_soul_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_2_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_2_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/soul_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/soul_3_png.png",
               "videoUrl": ""
             }
           ]
@@ -964,67 +964,67 @@
           "orangeSkill": {
             "type": "orange",
             "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-            "levelsImg": "http://localhost:3000/assets/skills/orange-skill-levels-panel.png",
+            "levelsImg": "assets/skills/orange-skill-levels-panel.png",
             "maxLevel": 1,
-            "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_png.png",
-            "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_legendary.webm"
+            "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_png.png",
+            "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_legendary.webm"
           },
           "purpleSkills": [
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-1.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-1.png",
               "maxLevel": 2,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_4_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_4_png.png",
               "videoUrl": ""
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_5_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_5.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_5_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_5.webm"
             },
             {
               "type": "purple",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/purple-skill-levels-panel-2.png",
+              "levelsImg": "assets/skills/purple-skill-levels-panel-2.png",
               "maxLevel": 1,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_6_png.png",
-              "videoUrl": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_6.webm"
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_6_png.png",
+              "videoUrl": "assets/heroes/npc_dota_hero_lina/video/modifier_lina_laguna_6.webm"
             }
           ],
           "blueSkills": [
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_1_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_1_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_2_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_2_png.png",
               "videoUrl": ""
             },
             {
               "type": "blue",
               "description": "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><font color='#fb9531'>120%</font></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза",
-              "levelsImg": "http://localhost:3000/assets/skills/blue-skill-levels-panel.png",
+              "levelsImg": "assets/skills/blue-skill-levels-panel.png",
               "maxLevel": 3,
-              "skillImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/laguna_3_png.png",
+              "skillImg": "assets/heroes/npc_dota_hero_lina/img/laguna_3_png.png",
               "videoUrl": ""
             }
           ]
         }
       },
       "attribute": "intelligence",
-      "portraitImg": "http://localhost:3000/assets/heroes/npc_dota_hero_lina/img/portrait.png",
+      "portraitImg": "assets/heroes/npc_dota_hero_lina/img/portrait.png",
       "id": 4,
       "attackType": "range"
     }
