@@ -1,0 +1,106 @@
+@font-face {
+  font-family: 'Feast of Flesh Italic';
+  src: url('http://localhost:3000/fonts/feast-of-flesh-bb.italic.otf');
+}
+
+@font-face {
+  font-family: 'Radiance';
+  src: url('http://localhost:3000/fonts/radiance.otf');
+}
+
+.underBarSection {
+  height: 135px;
+
+  /*border: white solid 3px;*/
+  margin-top: 3%;
+  display: flex;
+  flex-direction: row;
+
+  color: #eaeaea;
+  font-size: 12px;
+  font-family: SansSerif, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 4px #000;
+}
+
+.prev-next-hero-block {
+  background-image: url('http://localhost:3000/grey_painterly_wide.png');
+  box-shadow: 2px 2px 1px #000;
+
+  /*border: red solid 3px;*/
+  width: 390px;
+  display: flex;
+  position: relative;
+  padding: 18px 10px 0 50px;
+
+  transition: filter 0.2s ease-in-out;
+}
+
+.previous-hero-block {
+  flex-direction: row-reverse;
+}
+
+.prev-next-hero-block > .portraitImg {
+  z-index: 1;
+  position: absolute;
+  height: 150px;
+  bottom: 0;
+  transition: transform 0.2s ease-in-out;
+}
+
+.previous-hero-block > .portraitImg {
+  left: 0;
+}
+
+.next-hero-block > .portraitImg {
+  right: 0;
+}
+
+.prev-next-hero-block > .description {
+  width: 200px;
+  z-index: 2;
+
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+}
+
+.prev-next-hero-block > .description > .heroName {
+  font-family: 'Feast of Flesh Italic', sans-serif;
+  font-size: 24px;
+  letter-spacing: 0;
+  /*height: 48px;*/
+  display: flex;
+  text-align: left;
+  color: white;
+}
+
+.prev-next-hero-block > .description > .heroInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+}
+
+.prev-next-hero-block > .description > .heroInfo > .heroAttributesImg {
+  justify-content: center;
+  width: 25px;
+  height: 25px;
+}
+
+.prev-next-hero-block > .description > .heroInfo > .attackType {
+  justify-content: center;
+  margin-left: 3px;
+}
+
+.prev-next-hero-block:hover {
+  filter: brightness(1.1);
+  cursor: pointer;
+}
+
+.prev-next-hero-block:hover > .portraitImg {
+  transform: scale(1.2) translateY(-12px);
+}

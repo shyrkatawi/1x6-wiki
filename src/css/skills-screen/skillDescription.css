@@ -1,0 +1,46 @@
+.skillDescription {
+    visibility: hidden;
+    width: 420px;
+    max-height: 420px;
+    background-color: #252b2e;
+    border: #000000 solid 3px;
+    padding: 10px;
+    position: absolute;
+    z-index: 3;
+
+    font-family: Monaco, sans-serif;
+    letter-spacing: 1px;
+    color: #fff;
+    text-align: left;
+    font-size: 18px;
+}
+
+.orangeSkill > .skillDescriptionPosition-right {
+    right: 0;
+    transform: translate(+440px, -10px);
+}
+
+.orangeSkill > .skillDescriptionPosition-left {
+    left: 0;
+    transform: translate(-440px, -10px);
+}
+
+.purpleSkill > .skillDescriptionPosition-right,
+.blueSkill > .skillDescriptionPosition-right {
+    right: 0;
+    transform: translate(+440px, -55px);
+}
+
+.purpleSkill > .skillDescriptionPosition-left,
+.blueSkill > .skillDescriptionPosition-left {
+    left: 0;
+    transform: translate(-440px, -55px);
+}
+
+.skill:hover .skillDescription {
+    visibility: visible;
+}
+
+.skillDescription:hover {
+    display: none;
+}

@@ -1,0 +1,17 @@
+.skillTrees {
+    background: url('http://localhost:3000/assets/skill-trees-bg.png') no-repeat;
+    width: 900px;
+    height: 400px;
+
+    display: grid;
+    grid-template-areas:
+            "skillTree skillTree skillTree skillTree";
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    border: rgba(28, 28, 28, 0.75) solid 3px;
+
+}
+
+.skillTree {
+    display: grid;
+}

@@ -1,0 +1,128 @@
+@keyframes CardAnimationOrange {
+  0% {
+    box-shadow: #f7942b 0 0 2px -2px;
+  }
+  50% {
+    box-shadow: #f7942b 0 0 6px 0;
+  }
+  100% {
+    box-shadow: #f7942b 0 0 2px -2px;
+  }
+}
+
+@keyframes CardAnimationPurple {
+  0% {
+    box-shadow: #a943eb 0 0 2px -2px;
+  }
+  50% {
+    box-shadow: #a943eb 0 0 6px 0;
+  }
+  100% {
+    box-shadow: #a943eb 0 0 2px -2px;
+  }
+}
+
+@keyframes CardAnimationBlue {
+  0% {
+    box-shadow: #3485f2 0 0 2px -2px;
+  }
+  50% {
+    box-shadow: #3485f2 0 0 6px 0;
+  }
+  100% {
+    box-shadow: #3485f2 0 0 2px -2px;
+  }
+}
+
+.skill-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.skill {
+  padding-top: 4px;
+  margin: 7px;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+}
+
+.orangeSkill {
+  animation-name: CardAnimationOrange;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background-color: black;
+}
+
+.orangeSkill > .skill-hint {
+  display: inline-block;
+  max-width: 50px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: translate(+5px, -5px);
+}
+
+.orange-skill-img {
+  display: inline-block;
+  margin: 2px auto 8px;
+  width: 80px;
+  height: 80px;
+}
+
+.orange-skill-levels-panel-img {
+  width: 82px;
+  height: 16px;
+}
+
+.purpleSkills,
+.blueSkills {
+  display: grid;
+  grid-template-areas: 's1 s2 s3';
+  margin: 0 5px;
+  padding-top: 4px;
+}
+
+.purpleSkill,
+.blueSkill {
+  background-color: black;
+  flex-direction: column;
+  position: relative;
+}
+
+.purpleSkill {
+  animation-name: CardAnimationPurple;
+}
+
+.blueSkill {
+  animation-name: CardAnimationBlue;
+}
+
+.purple-skill-img,
+.blue-skill-img {
+  padding-top: 4px;
+  max-width: 45px;
+  max-height: 45px;
+  min-width: 45px;
+  min-height: 45px;
+}
+
+.purple-skill-levels-panel-img,
+.blue-skill-levels-panel-img {
+  padding-bottom: 2px;
+  width: 48px;
+  height: 12px;
+}
+
+.purpleSkill > .skill-hint,
+.blueSkill > .skill-hint {
+  display: inline-block;
+  max-width: 20px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: translate(+5px, -5px);
+}

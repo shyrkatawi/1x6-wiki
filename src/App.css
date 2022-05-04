@@ -1,38 +1,26 @@
-.App {
-  text-align: center;
-}
+@import 'css/skills-screen/skillTrees.css';
+@import 'css/skills-screen/skill.css';
+@import 'css/skills-screen/videoDemonstration.css';
+@import 'css/main-screen/main-screen.css';
+@import 'css/skills-screen/skillDescription.css';
+@import 'css/skills-screen/under-bar-section/underBarSection.css';
+@import 'css/skills-screen/under-bar-section/toAllHeroesContainer.css';
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+body {
+  background-image: url('http://localhost:3000/greyfade.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  text-align: center;
+  padding: 2% 5%;
 }
 
-.App-link {
-  color: #61dafb;
+*, *:before, *:after {
+  box-sizing: border-box;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a{
+  text-decoration: none;
 }

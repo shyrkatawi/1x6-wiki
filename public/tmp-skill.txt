@@ -1,0 +1,404 @@
+"DOTA_Tooltip_ability_antimage_mana_break_custom"										"Mana Break"
+"DOTA_Tooltip_ability_antimage_mana_break_custom_Description"							"Каждая атака сжигает ману цели и наносит ей урон, равный доле от сожжённой маны. Замедляет жертв, у которых нет маны.<br><br><b><font color='#ff0000'>Иллюзии сжигают %illusion_burn% маны</span></b>"
+"DOTA_Tooltip_ability_antimage_mana_break_custom_Lore"									"Изменённый приём турстаркурийских монахов, обращающий волшебную энергию против самого чародея."
+"DOTA_Tooltip_ability_antimage_mana_break_custom_mana_per_hit"							"СЖИГАНИЕ МАНЫ ЗА АТАКУ:"
+"DOTA_Tooltip_ability_antimage_mana_break_custom_mana_per_hit_pct"						"%СЖИГАЕМАЯ ДОЛЯ ОТ МАКС. МАНЫ:"
+"DOTA_Tooltip_ability_antimage_mana_break_custom_move_slow"								"%ЗАМЕДЛЕНИЕ ЦЕЛЕЙ БЕЗ МАНЫ:"
+"DOTA_Tooltip_ability_antimage_mana_break_custom_slow_duration"							"ДЛИТЕЛЬНОСТЬ ЗАМЕДЛЕНИЯ:"
+"DOTA_Tooltip_ability_antimage_mana_break_custom_percent_damage_per_burn"				"УРОН ЗА СОЖЖЕННУЮ МАНУ:"
+"DOTA_Tooltip_ability_antimage_mana_break_custom_shard_description"						"Когда ваша атака выжигает ману, вы наносите магический урон всем противникам в радиусе 300, равный <b><span class='green-text'>100%</span></b> от сожжённой маны<br><br>Не наносит урона основной цели"
+
+
+"DOTA_Tooltip_modifier_antimage_mana_break_custom_slow"									"Замедление от Mana Break"
+"DOTA_Tooltip_modifier_antimage_mana_break_custom_slow_Description"						"Существо замедлено на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+
+"hero_change_npc_dota_hero_antimage_1" "Наносит <b><font color='#ff0000'>80%</span></b> урона постройкам"
+"hero_change_npc_dota_hero_antimage_2" "Aghanim Shard изменен"
+"hero_change_npc_dota_hero_antimage_3" "Выжигание маны снижено до <b><font color='#ff0000'>30</span></b> + <b><font color='#ff0000'>2.2%</span></b> маны (<b><font color='#ff0000'>10</span></b> для иллюзий)"
+"hero_change_npc_dota_hero_antimage_4" "Перезарядка увеличена до <b><font color='#ff0000'>8</span></b> сек, дальность снижена до <b><font color='#ff0000'>1000</span></b>"
+"hero_change_npc_dota_hero_antimage_5" "Перезарядка увеличена до <b><font color='#ff0000'>9</span></b> сек, сопротивление снижено до <b><font color='#ff0000'>25%</span></b>"
+"hero_change_npc_dota_hero_antimage_6" "Blink Fragment перезаряжается 8 секунд (без зарядов)"
+
+
+"font_disc_modifier_antimage_break_1" "24"
+"upgrade_disc_modifier_antimage_break_1_1" "<b><span class='green-text'>+0.4</span></b> урона за единицу сжигаемой маны Mana Break"
+"upgrade_disc_modifier_antimage_break_1_2" "<b><span class='green-text'>+0.8</span></b> урона за единицу сжигаемой маны Mana Break"
+"upgrade_disc_modifier_antimage_break_1_3" "<b><span class='green-text'>+1.2</span></b> урона за единицу сжигаемой маны Mana Break"
+
+"talent_disc_modifier_antimage_break_1_0" "<b><font color='#297016'>+0.4</span></b>/<b><font color='#297016'>+0.8</span></b>/<b><font color='#297016'>+1.2</span></b> урона за единицу сжигаемой маны Mana Break"
+"talent_disc_modifier_antimage_break_1_1" "<b><span class='green-text'>+0.4</span></b>/<b><font color='#297016'>+0.8</span></b>/<b><font color='#297016'>+1.2</span></b> урона за единицу сжигаемой маны Mana Break"
+"talent_disc_modifier_antimage_break_1_2" "<b><font color='#297016'>+0.4</span></b>/<b><span class='green-text'>+0.8</span></b>/<b><font color='#297016'>+1.2</span></b> урона за единицу сжигаемой маны Mana Break"
+"talent_disc_modifier_antimage_break_1_3" "<b><font color='#297016'>+0.4</span></b>/<b><font color='#297016'>+0.8</span></b>/<b><span class='green-text'>+1.2</span></b> урона за единицу сжигаемой маны Mana Break"
+
+
+"font_disc_modifier_antimage_break_2" "20"
+"upgrade_disc_modifier_antimage_break_2_1" "Ваши атаки исцеляют вас на <b><span class='green-text'>10</span></b> здоровья<br><br>Эффект усиливается максимум в 2 раза, в зависимости от недостающей маны цели"
+"upgrade_disc_modifier_antimage_break_2_2" "Ваши атаки исцеляют вас на <b><span class='green-text'>15</span></b> здоровья<br><br>Эффект усиливается максимум в 2 раза, в зависимости от недостающей маны цели"
+"upgrade_disc_modifier_antimage_break_2_3" "Ваши атаки исцеляют вас на <b><span class='green-text'>20</span></b> здоровья<br><br>Эффект усиливается максимум в 2 раза, в зависимости от недостающей маны цели"
+
+"talent_disc_modifier_antimage_break_2_0" "Ваши атаки исцеляют вас на <b><font color='#297016'>10</span></b>/<b><font color='#297016'>15</span></b>/<b><font color='#297016'>20</span></b> здоровья<br><br>Эффект усиливается максимум в 2 раза, в зависимости от недостающей маны цели"
+"talent_disc_modifier_antimage_break_2_1" "Ваши атаки исцеляют вас на <b><span class='green-text'>10</span></b>/<b><font color='#297016'>15</span></b>/<b><font color='#297016'>20</span></b> здоровья<br><br>Эффект усиливается максимум в 2 раза, в зависимости от недостающей маны цели"
+"talent_disc_modifier_antimage_break_2_2" "Ваши атаки исцеляют вас на <b><font color='#297016'>10</span></b>/<b><span class='green-text'>15</span></b>/<b><font color='#297016'>20</span></b> здоровья<br><br>Эффект усиливается максимум в 2 раза, в зависимости от недостающей маны цели"
+"talent_disc_modifier_antimage_break_2_3" "Ваши атаки исцеляют вас на <b><font color='#297016'>10</span></b>/<b><font color='#297016'>15</span></b>/<b><span class='green-text'>20</span></b> здоровья<br><br>Эффект усиливается максимум в 2 раза, в зависимости от недостающей маны цели"
+
+
+
+"font_disc_modifier_antimage_break_3" "20"
+"upgrade_disc_modifier_antimage_break_3_1" "Каждая атака накладывает на цель эффект 'Утомление' на 2 секунды<br><br>Эффект увеличивает затраты маны и потерю маны цели на <b><span class='green-text'>10%</span></b>"
+"upgrade_disc_modifier_antimage_break_3_2" "Каждая атака накладывает на цель эффект 'Утомление' на 2 секунды<br><br>Эффект увеличивает затраты маны и потерю маны цели на <b><span class='green-text'>15%</span></b>"
+"upgrade_disc_modifier_antimage_break_3_3" "Каждая атака накладывает на цель эффект 'Утомление' на 2 секунды<br><br>Эффект увеличивает затраты маны и потерю маны цели на <b><span class='green-text'>20%</span></b>"
+
+"talent_disc_modifier_antimage_break_3_0" "Каждая атака накладывает на цель эффект 'Утомление' на 2 секунды<br><br>Эффект увеличивает затраты маны и потерю маны цели на <b><font color='#297016'>10%</span></b>/<b><font color='#297016'>15%</span></b>/<b><font color='#297016'>20%</span></b>"
+"talent_disc_modifier_antimage_break_3_1" "Каждая атака накладывает на цель эффект 'Утомление' на 2 секунды<br><br>Эффект увеличивает затраты маны и потерю маны цели на <b><span class='green-text'>10%</span></b>/<b><font color='#297016'>15%</span></b>/<b><font color='#297016'>20%</span></b>"
+"talent_disc_modifier_antimage_break_3_2" "Каждая атака накладывает на цель эффект 'Утомление' на 2 секунды<br><br>Эффект увеличивает затраты маны и потерю маны цели на <b><font color='#297016'>10%</span></b>/<b><span class='green-text'>15%</span></b>/<b><font color='#297016'>20%</span></b>"
+"talent_disc_modifier_antimage_break_3_3" "Каждая атака накладывает на цель эффект 'Утомление' на 2 секунды<br><br>Эффект увеличивает затраты маны и потерю маны цели на <b><font color='#297016'>10%</span></b>/<b><font color='#297016'>15%</span></b>/<b><span class='green-text'>20%</span></b>"
+
+"DOTA_Tooltip_modifier_antimage_mana_break_custom_cost"									"Mana Break"
+"DOTA_Tooltip_modifier_antimage_mana_break_custom_cost_Description"						"Затраты маны увеличены на <b><font color='#ff0000'>%dMODIFIER_PROPERTY_MANACOST_PERCENTAGE%%%</span></b>."
+
+
+
+
+"font_disc_modifier_antimage_break_4" "18"
+"upgrade_disc_modifier_antimage_break_4_1" "Если ваша атака оставляет цели меньше 50% маны, вы обездвиживаете ее на <b><span class='green-text'>1.0</span></b> секунду, а входящий по ней урон увеличивается на <b><span class='green-text'>10%</span></b> на 5 секунд<br><br>Перезарядка для каждой цели: 15 секунд"
+"upgrade_disc_modifier_antimage_break_4_2" "Если ваша атака оставляет цели меньше 50% маны, вы обездвиживаете ее на <b><span class='green-text'>1.5</span></b> секунды, а входящий по ней урон увеличивается на <b><span class='green-text'>15%</span></b> на 5 секунд<br><br>Перезарядка для каждой цели: 15 секунд"
+
+"talent_disc_modifier_antimage_break_4_0" "Если ваша атака оставляет цели меньше 50% маны, вы обездвиживаете ее на <b><font color='#297016'>1.0</span></b>/<b><font color='#297016'>1.5</span></b> секунды, а входящий по ней урон увеличивается на <b><font color='#297016'>10%</span></b>/<b><font color='#297016'>15%</span></b> на 5 секунд<br><br>Перезарядка для каждой цели: 15 секунд"
+"talent_disc_modifier_antimage_break_4_1" "Если ваша атака оставляет цели меньше 50% маны, вы обездвиживаете ее на <b><span class='green-text'>1.0</span></b>/<b><font color='#297016'>1.5</span></b> секунду, а входящий по ней урон увеличивается на <b><span class='green-text'>10%</span></b>/<b><font color='#297016'>15%</span></b> на 5 секунд<br><br>Перезарядка для каждой цели: 15 секунд"
+"talent_disc_modifier_antimage_break_4_2" "Если ваша атака оставляет цели меньше 50% маны, вы обездвиживаете ее на <b><font color='#297016'>1.0</span></b>/<b><span class='green-text'>1.5</span></b> секунды, а входящий по ней урон увеличивается на <b><font color='#297016'>10%</span></b>/<b><span class='green-text'>15%</span></b> на 5 секунд<br><br>Перезарядка для каждой цели: 15 секунд"
+"mini_disc_modifier_antimage_break_4" "Если ваша атака оставляет цель без маны, вы обездвиживаете ее"
+
+"DOTA_Tooltip_modifier_antimage_mana_break_custom_damage"									"Mana Break"
+"DOTA_Tooltip_modifier_antimage_mana_break_custom_damage_Description"						"Входящий урон увеличен на <b><font color='#ff0000'>%dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%</span></b>."
+
+
+
+
+"font_disc_modifier_antimage_break_5" "21"
+"upgrade_disc_modifier_antimage_break_5_1" "Атаки по цели с запасом маны выше 80%, накладывают на нее безмолвие на <b><span class='green-text'>1</span></b> секунду"
+"mini_disc_modifier_antimage_break_5" "Атаки по цели с полной маны обезмолвливают"
+
+
+
+"DOTA_Tooltip_modifier_antimage_mana_break_custom_silence"									"Mana Break"
+"DOTA_Tooltip_modifier_antimage_mana_break_custom_silence_Description"						"Обезмолвлен"
+
+
+
+"font_disc_modifier_antimage_break_6" "19"
+"upgrade_disc_modifier_antimage_break_6_1" "Под действием замедления Manabreak, исцеление и регенерация противника снижается на <b><span class='green-text'>30%</span></b><br><br>Замедление Manabreak срабатывает на цели с запасом маны ниже 50%"
+"mini_disc_modifier_antimage_break_6" "Замедление Manabreak снижает исцеление цели"
+
+"font_disc_modifier_antimage_break_7" "17"
+"upgrade_disc_modifier_antimage_break_7" "Активная<br>Перезарядка: 25 секунд<br><br>В течение <b><span class='orange-text'>10</span></b> секунд, ваши атаки наносят дополнительно до <b><span class='orange-text'>120%</span></b> урона, в зависимости от недостающей маны цели<br><br>Под действием эффекта, замедление от Manabreak увеличивается в 2 раза"
+"mini_disc_modifier_antimage_break_7" "Активная: Увеличивает урон по целям без маны"
+
+
+"DOTA_Tooltip_modifier_antimage_mana_break_custom_legendary"									"Mana Break"
+"DOTA_Tooltip_modifier_antimage_mana_break_custom_legendary_Description"						"Атаки наносят дополнительный урон целям без маны"
+
+
+
+
+"DOTA_Tooltip_ability_antimage_blink_custom"											"Blink"
+"DOTA_Tooltip_ability_antimage_blink_custom_Description"								"Перемещает героя на короткую дистанцию, что позволяет ворваться в схватку или быстро из неё сбежать."
+"DOTA_Tooltip_ability_antimage_blink_custom_Lore"										"В схватках с мёртвыми богами юный послушник познал важность неуловимости."
+"DOTA_Tooltip_ability_antimage_blink_custom_Note0"										"Позволяет сбить с цели многие снаряды."
+"DOTA_Tooltip_ability_antimage_blink_custom_blink_range"								"ДАЛЬНОСТЬ:"
+
+
+"DOTA_Tooltip_ability_antimage_mana_overload_custom"									"Blink Fragment"
+"DOTA_Tooltip_ability_antimage_mana_overload_custom_Description"						"Перемещает к выбранному врагу или в выбранную точку иллюзию, которая 7 секунд атакует противников"
+"DOTA_Tooltip_ability_antimage_mana_overload_custom_outgoing"								"%УРОН ИЛЛЮЗИИ:"
+"DOTA_Tooltip_ability_antimage_mana_overload_custom_incoming"								"%УРОН ПО ИЛЛЮЗИИ:"
+
+
+
+
+"font_disc_modifier_antimage_blink_1" "20"
+"upgrade_disc_modifier_antimage_blink_1_1" "После использования Blink, ваша скорость атаки повышается на <b><span class='green-text'>100</span></b> на следующиe 3 удара"
+"upgrade_disc_modifier_antimage_blink_1_2" "После использования Blink, ваша скорость атаки повышается на <b><span class='green-text'>200</span></b> на следующиe 3 удара"
+"upgrade_disc_modifier_antimage_blink_1_3" "После использования Blink, ваша скорость атаки повышается на <b><span class='green-text'>300</span></b> на следующиe 3 удара"
+
+
+"talent_disc_modifier_antimage_blink_1_0" "После использования Blink, ваша скорость атаки повышается на <b><font color='#297016'>100</span></b>/<b><font color='#297016'>200</span></b>/<b><font color='#297016'>300</span></b> на следующиe 3 удара"
+"talent_disc_modifier_antimage_blink_1_1" "После использования Blink, ваша скорость атаки повышается на <b><span class='green-text'>100</span></b>/<b><font color='#297016'>200</span></b>/<b><font color='#297016'>300</span></b> на следующиe 3 удара"
+"talent_disc_modifier_antimage_blink_1_2" "После использования Blink, ваша скорость атаки повышается на <b><font color='#297016'>100</span></b>/<b><span class='green-text'>200</span></b>/<b><font color='#297016'>300</span></b> на следующиe 3 удара"
+"talent_disc_modifier_antimage_blink_1_3" "После использования Blink, ваша скорость атаки повышается на <b><font color='#297016'>100</span></b>/<b><font color='#297016'>200</span></b>/<b><span class='green-text'>300</span></b> на следующиe 3 удара"
+
+"DOTA_Tooltip_modifier_antimage_blink_custom_agility"									"Blink"
+"DOTA_Tooltip_modifier_antimage_blink_custom_agility_Description"						"Скорость атаки увеличена на <b><span class='green-text'>%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%</span></b>"
+
+
+"font_disc_modifier_antimage_blink_2" "19"
+"upgrade_disc_modifier_antimage_blink_2_1" "Blink замедляет всех противников на линии действия, снижая их скорость передвижения на <b><span class='green-text'>20%</span></b>, а скорость поворота на 50%<br><br>Длительность: 2 секунды"
+"upgrade_disc_modifier_antimage_blink_2_2" "Blink замедляет всех противников на линии действия, снижая их скорость передвижения на <b><span class='green-text'>30%</span></b>, а скорость поворота на 50%<br><br>Длительность: 2 секунды"
+"upgrade_disc_modifier_antimage_blink_2_3" "Blink замедляет всех противников на линии действия, снижая их скорость передвижения на <b><span class='green-text'>40%</span></b>, а скорость поворота на 50%<br><br>Длительность: 2 секунды"
+
+"talent_disc_modifier_antimage_blink_2_0" "Blink замедляет всех противников на линии действия, снижая их скорость передвижения на <b><font color='#297016'>20%</span></b>/<b><font color='#297016'>30%</span></b>/<b><font color='#297016'>40%</span></b>, а скорость поворота на 50%<br><br>Длительность: 2 секунды"
+"talent_disc_modifier_antimage_blink_2_1" "Blink замедляет всех противников на линии действия, снижая их скорость передвижения на <b><span class='green-text'>20%</span></b>/<b><font color='#297016'>30%</span></b>/<b><font color='#297016'>40%</span></b>, а скорость поворота на 50%<br><br>Длительность: 2 секунды"
+"talent_disc_modifier_antimage_blink_2_2" "Blink замедляет всех противников на линии действия, снижая их скорость передвижения на <b><font color='#297016'>20%</span></b>/<b><span class='green-text'>30%</span></b>/<b><font color='#297016'>40%</span></b>, а скорость поворота на 50%<br><br>Длительность: 2 секунды"
+"talent_disc_modifier_antimage_blink_2_3" "Blink замедляет всех противников на линии действия, снижая их скорость передвижения на <b><font color='#297016'>20%</span></b>/<b><font color='#297016'>30%</span></b>/<b><span class='green-text'>40%</span></b>, а скорость поворота на 50%<br><br>Длительность: 2 секунды"
+
+"DOTA_Tooltip_modifier_antimage_blink_custom_slow"									"Blink"
+"DOTA_Tooltip_modifier_antimage_blink_custom_slow_Description"						"Скорость передвижения снижена на <b><font color='#ff0000'>%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%</span></b>. Скорость поворота снижена"
+
+
+
+"font_disc_modifier_antimage_blink_3" "23"
+"upgrade_disc_modifier_antimage_blink_3_1" "Blink перезаряжается на <b><span class='green-text'>10%</span></b> быстрее"
+"upgrade_disc_modifier_antimage_blink_3_2" "Blink перезаряжается на <b><span class='green-text'>15%</span></b> быстрее"
+"upgrade_disc_modifier_antimage_blink_3_3" "Blink перезаряжается на <b><span class='green-text'>20%</span></b> быстрее"
+
+"talent_disc_modifier_antimage_blink_3_0" "Blink перезаряжается на <b><font color='#297016'>10%</span></b>/<b><font color='#297016'>15%</span></b>/<b><font color='#297016'>20%</span></b> быстрее"
+"talent_disc_modifier_antimage_blink_3_1" "Blink перезаряжается на <b><span class='green-text'>10%</span></b>/<b><font color='#297016'>15%</span></b>/<b><font color='#297016'>20%</span></b> быстрее"
+"talent_disc_modifier_antimage_blink_3_2" "Blink перезаряжается на <b><font color='#297016'>10%</span></b>/<b><span class='green-text'>15%</span></b>/<b><font color='#297016'>20%</span></b> быстрее"
+"talent_disc_modifier_antimage_blink_3_3" "Blink перезаряжается на <b><font color='#297016'>10%</span></b>/<b><font color='#297016'>15%</span></b>/<b><span class='green-text'>20%</span></b> быстрее"
+
+"DOTA_Tooltip_modifier_antimage_blink_custom_attacks"									"Blink"
+"DOTA_Tooltip_modifier_antimage_blink_custom_attacks_Description"						"Ваши атаки наносят дополнительно <b><span class='green-text'>%dMODIFIER_PROPERTY_TOOLTIP%</span></b> магического урона"
+
+
+
+
+
+
+"font_disc_modifier_antimage_blink_4" "21"
+"upgrade_disc_modifier_antimage_blink_4_1" "Каждый <b><span class='green-text'>5</span></b> Blink не потребует перезарядки и восстановит вам 20% от недостающего здоровья"
+"upgrade_disc_modifier_antimage_blink_4_2" "Каждый <b><span class='green-text'>4</span></b> Blink не потребует перезарядки и восстановит вам 20% от недостающего здоровья"
+
+"talent_disc_modifier_antimage_blink_4_0" "Каждый <b><font color='#297016'>5</span></b>/<b><font color='#297016'>4</span></b> Blink не потребует перезарядки и восстановит вам 20% от недостающего здоровья"
+"talent_disc_modifier_antimage_blink_4_1" "Каждый <b><span class='green-text'>5</span></b>/<b><font color='#297016'>4</span></b> Blink не потребует перезарядки и восстановит вам 20% от недостающего здоровья"
+"talent_disc_modifier_antimage_blink_4_2" "Каждый <b><font color='#297016'>5</span></b>/<b><span class='green-text'>4</span></b> Blink не потребует перезарядки и восстановит вам 20% от недостающего здоровья"
+"mini_disc_modifier_antimage_blink_4" "Blink может не потребовать перезарядки и исцелить"
+
+
+
+
+"font_disc_modifier_antimage_blink_5" "21"
+"upgrade_disc_modifier_antimage_blink_5_1" "После применения Blink, ваш шанс уклонения повышается на <b><span class='green-text'>50%</span></b>, а скорость передвижения на <b><span class='green-text'>30%</span></b> на 2 секунды"
+"mini_disc_modifier_antimage_blink_5" "Blink увеличивает скорость передвижения и шанс уклонения"
+
+"DOTA_Tooltip_modifier_antimage_blink_custom_evasion"									"Blink"
+"DOTA_Tooltip_modifier_antimage_blink_custom_evasion_Description"						"Скорость передвижения увеличена на <b><span class='green-text'>%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%</span></b>, шанс уклонения увеличен на <b><span class='green-text'>%dMODIFIER_PROPERTY_EVASION_CONSTANT%%%</span></b>"
+
+
+
+"font_disc_modifier_antimage_blink_6" "18"
+"upgrade_disc_modifier_antimage_blink_6_1" "В месте применения Blink вы создаете неуязвимую иллюзию, которая наносит <b><span class='green-text'>30%</span></b> вашего урона и исцеляет вас на 2% здоровья с каждой атакой<br><br>Иллюзия существует 5 секунд или пока не совершит <b><span class='green-text'>4</span></b> атаки"
+"mini_disc_modifier_antimage_blink_6" "Blink создает неуязвимую иллюзию, которая может совершить 4 атаки"
+
+
+
+
+
+
+"font_disc_modifier_antimage_blink_7" "18"
+"upgrade_disc_modifier_antimage_blink_7" "Перезарядка Blink сокращается на <b><span class='orange-text'>4</span></b> секунды, а затраты маны до <b><span class='orange-text'>30</span></b><br><br>Blink становится ненаправленной способностью<br><br>Вы совершаете рывок на расстояние в <b><span class='orange-text'>400</span></b> и атакуете всех противников на своем пути, нанося им 50% урона"
+"mini_disc_modifier_antimage_blink_7" "Blink становится ненаправленной способностью"
+
+
+
+
+
+
+"DOTA_Tooltip_ability_antimage_counterspell_custom"										"Counterspell"
+"DOTA_Tooltip_ability_antimage_counterspell_custom_Description"							"Увеличивает сопротивление магическому урону. Можно применить, чтобы создать вокруг себя противомагический щит, который полностью отражает все направленные заклинания обратно во врага."
+"DOTA_Tooltip_ability_antimage_counterspell_custom_Lore"								"Сконцентрировавшись, Антимаг обращает врождённое сопротивление в точную контратаку."
+"DOTA_Tooltip_ability_antimage_counterspell_custom_magic_resistance"					"%СОПРОТИВЛЕНИЕ МАГИИ:"
+"DOTA_Tooltip_ability_antimage_counterspell_custom_duration"							"ДЛИТЕЛЬНОСТЬ:"
+
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_active"								"Щит от Counterspell"
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_active_Description"					"Блокирует все направленные заклинания и отражает их обратно во врага."
+
+"DOTA_Tooltip_modifier_antimage_counterspell_custom"								"Counterspell"
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_Description"					"Восстанавливает <b><span class='green-text'>%dMODIFIER_PROPERTY_HEALTH_REGEN_PERCENTAGE%%%</span></b> здоровья в секунду"
+
+
+
+
+"font_disc_modifier_antimage_counter_1" "21"
+"upgrade_disc_modifier_antimage_counter_1_1" "<b><span class='green-text'>+2</span></b> брони от Counterspell<br><br><b><span class='green-text'>+4%</span></b> сопротивления эффектам от Counterspell"
+"upgrade_disc_modifier_antimage_counter_1_2" "<b><span class='green-text'>+4</span></b> брони от Counterspell<br><br><b><span class='green-text'>+8%</span></b> сопротивления эффектам от Counterspell"
+"upgrade_disc_modifier_antimage_counter_1_3" "<b><span class='green-text'>+6</span></b> брони от Counterspell<br><br><b><span class='green-text'>+12%</span></b> сопротивления эффектам от Counterspell"
+
+"talent_disc_modifier_antimage_counter_1_0" "<b><font color='#297016'>+2</span></b>/<b><font color='#297016'>+4</span></b>/<b><font color='#297016'>+6</span></b> брони от Counterspell<br><br><b><font color='#297016'>+4%</span></b>/<b><font color='#297016'>+8%</span></b>/<b><font color='#297016'>+12%</span></b> сопротивления эффектам от Counterspell"
+"talent_disc_modifier_antimage_counter_1_1" "<b><span class='green-text'>+2</span></b>/<b><font color='#297016'>+4</span></b>/<b><font color='#297016'>+6</span></b> брони от Counterspell<br><br><b><span class='green-text'>+4%</span></b>/<b><font color='#297016'>+8%</span></b>/<b><font color='#297016'>+12%</span></b> сопротивления эффектам от Counterspell"
+"talent_disc_modifier_antimage_counter_1_2" "<b><font color='#297016'>+2</span></b>/<b><span class='green-text'>+4</span></b>/<b><font color='#297016'>+6</span></b> брони от Counterspell<br><br><b><font color='#297016'>+4%</span></b>/<b><span class='green-text'>+8%</span></b>/<b><font color='#297016'>+12%</span></b> сопротивления эффектам от Counterspell"
+"talent_disc_modifier_antimage_counter_1_3" "<b><font color='#297016'>+2</span></b>/<b><font color='#297016'>+4</span></b>/<b><span class='green-text'>+6</span></b> брони от Counterspell<br><br><b><font color='#297016'>+4%</span></b>/<b><font color='#297016'>+8%</span></b>/<b><span class='green-text'>+12%</span></b> сопротивления эффектам от Counterspell"
+
+
+
+
+"font_disc_modifier_antimage_counter_2" "19"
+"upgrade_disc_modifier_antimage_counter_2_1" "Когда Counterspell отражает заклинание, вы замедляете всех противников неподалёку на 50% и увеличиваете получаемый ими урон на <b><span class='green-text'>10%</span></b><br><br>Длительность: 3 секунды"
+"upgrade_disc_modifier_antimage_counter_2_2" "Когда Counterspell отражает заклинание, вы замедляете всех противников неподалёку на 50% и увеличиваете получаемый ими урон на <b><span class='green-text'>20%</span></b><br><br>Длительность: 3 секунды"
+"upgrade_disc_modifier_antimage_counter_2_3" "Когда Counterspell отражает заклинание, вы замедляете всех противников неподалёку на 50% и увеличиваете получаемый ими урон на <b><span class='green-text'>30%</span></b><br><br>Длительность: 3 секунды"
+
+"talent_disc_modifier_antimage_counter_2_0" "Когда Counterspell отражает заклинание, вы замедляете всех противников неподалёку на 50% и увеличиваете получаемый ими урон на <b><font color='#297016'>10%</span></b>/<b><font color='#297016'>20%</span></b>/<b><font color='#297016'>30%</span></b><br><br>Длительность: 3 секунды"
+"talent_disc_modifier_antimage_counter_2_1" "Когда Counterspell отражает заклинание, вы замедляете всех противников неподалёку на 50% и увеличиваете получаемый ими урон на <b><span class='green-text'>10%</span></b>/<b><font color='#297016'>20%</span></b>/<b><font color='#297016'>30%</span></b><br><br>Длительность: 3 секунды"
+"talent_disc_modifier_antimage_counter_2_2" "Когда Counterspell отражает заклинание, вы замедляете всех противников неподалёку на 50% и увеличиваете получаемый ими урон на <b><font color='#297016'>10%</span></b>/<b><span class='green-text'>20%</span></b>/<b><font color='#297016'>30%</span></b><br><br>Длительность: 3 секунды"
+"talent_disc_modifier_antimage_counter_2_3" "Когда Counterspell отражает заклинание, вы замедляете всех противников неподалёку на 50% и увеличиваете получаемый ими урон на <b><font color='#297016'>10%</span></b>/<b><font color='#297016'>20%</span></b>/<b><span class='green-text'>30%</span></b><br><br>Длительность: 3 секунды"
+
+
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_slow"									"Counterspell"
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_slow_Description"						"Скорость передвижения снижена на <b><font color='#ff0000'>%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%</span></b>, входящий урон увеличен на <b><font color='#ff0000'>%dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%</span></b>"
+
+
+
+
+"font_disc_modifier_antimage_counter_3" "21"
+"upgrade_disc_modifier_antimage_counter_3_1" "Применение Counterspell исцеляет вас на <b><span class='green-text'>6%</span></b> здоровья за 6 секунд"
+"upgrade_disc_modifier_antimage_counter_3_2" "Применение Counterspell исцеляет вас на <b><span class='green-text'>9%</span></b> здоровья за 6 секунд"
+"upgrade_disc_modifier_antimage_counter_3_3" "Применение Counterspell исцеляет вас на <b><span class='green-text'>12%</span></b> здоровья за 6 секунд"
+
+"talent_disc_modifier_antimage_counter_3_0" "Применение Counterspell исцеляет вас на <b><font color='#297016'>6%</span></b>/<b><font color='#297016'>9%</span></b>/<b><font color='#297016'>12%</span></b> здоровья за 6 секунд"
+"talent_disc_modifier_antimage_counter_3_1" "Применение Counterspell исцеляет вас на <b><span class='green-text'>6%</span></b>/<b><font color='#297016'>9%</span></b>/<b><font color='#297016'>12%</span></b> здоровья за 6 секунд"
+"talent_disc_modifier_antimage_counter_3_2" "Применение Counterspell исцеляет вас на <b><font color='#297016'>6%</span></b>/<b><span class='green-text'>9%</span></b>/<b><font color='#297016'>12%</span></b> здоровья за 6 секунд"
+"talent_disc_modifier_antimage_counter_3_3" "Применение Counterspell исцеляет вас на <b><font color='#297016'>6%</span></b>/<b><font color='#297016'>9%</span></b>/<b><span class='green-text'>12%</span></b> здоровья за 6 секунд"
+
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_heal"									"Counterspell"
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_heal_Description"						"Восстанавливает <b><span class='green-text'>%fMODIFIER_PROPERTY_HEALTH_REGEN_PERCENTAGE%%%</span></b> здоровья в секунду"
+
+
+
+
+
+
+"font_disc_modifier_antimage_counter_4" "18"
+"upgrade_disc_modifier_antimage_counter_4_1" "Каждый раз когда вы применяете или отражаете способность, вы наносите всем противникам неподалёку магический урон<br><br>Урон: <b><span class='green-text'>6%</span></b> от вашего максимального здоровья"
+"upgrade_disc_modifier_antimage_counter_4_2" "Каждый раз когда вы применяете или отражаете способность, вы наносите всем противникам неподалёку магический урон<br><br>Урон: <b><span class='green-text'>10%</span></b> от вашего максимального здоровья"
+
+"talent_disc_modifier_antimage_counter_4_0" "Каждый раз когда вы применяете или отражаете способность, вы наносите всем противникам неподалёку магический урон<br><br>Урон: <b><font color='#297016'>6%</span></b>/<b><font color='#297016'>10%</span></b> от вашего максимального здоровья"
+"talent_disc_modifier_antimage_counter_4_1" "Каждый раз когда вы применяете или отражаете способность, вы наносите всем противникам неподалёку магический урон<br><br>Урон: <b><span class='green-text'>6%</span></b>/<b><font color='#297016'>10%</span></b> от вашего максимального здоровья"
+"talent_disc_modifier_antimage_counter_4_2" "Каждый раз когда вы применяете или отражаете способность, вы наносите всем противникам неподалёку магический урон<br><br>Урон: <b><font color='#297016'>6%</span></b>/<b><span class='green-text'>10%</span></b> от вашего максимального здоровья"
+"mini_disc_modifier_antimage_counter_4" "Применение и отражение способностей наносит магический урон"
+
+
+"font_disc_modifier_antimage_counter_5" "19"
+"upgrade_disc_modifier_antimage_counter_5_1" "Если противник совершит 2 атаки по щиту Counterspell, он получит оглушение на <b><span class='green-text'>1.2</span></b> секунды и магический урон, равный <b><span class='green-text'>10%</span></b> от вашего максимального здоровья"
+"mini_disc_modifier_antimage_counter_5" "Counterspell оглушает за физические атаки"
+
+
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_heal_block"									"Counterspell"
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_heal_block_Description"						"Блокирует и отражает атаки"
+
+
+
+"font_disc_modifier_antimage_counter_6" "19"
+"upgrade_disc_modifier_antimage_counter_6_1" "Получая смертельный урон от заклинаний, вы восстанавливаете <b><span class='green-text'>20%</span></b> здоровья, а входящий по вам урон снижается на <b><span class='green-text'>50%</span></b> на 2 секунды<br><br>Перезарядка: 40 секунд"
+"mini_disc_modifier_antimage_counter_6" "Получая смертельный урон от заклинаний, исцеляется"
+
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_heal_damage"									"Counterspell"
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_heal_damage_Description"						"Входящий урон снижен на <b><span class='green-text'>%dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%</span></b>"
+
+
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_heal_cd"									"Counterspell"
+"DOTA_Tooltip_modifier_antimage_counterspell_custom_heal_cd_Description"						"Перезарядка автоматического исцеление"
+
+
+
+
+
+
+"font_disc_modifier_antimage_counter_7" "19"
+"upgrade_disc_modifier_antimage_counter_7" "<b><span class='orange-text'>+0.5</span></b> секунд длительности Counterspell<br><br>Под действием Counterspell, вы получаете на <b><span class='orange-text'>80%</span></b> меньше урона"
+"mini_disc_modifier_antimage_counter_7" "Counterspell снижает получаемый урон на 80%"
+
+
+
+"DOTA_Tooltip_ability_antimage_mana_void_custom"										"Mana Void"
+"DOTA_Tooltip_ability_antimage_mana_void_custom_Description"							"Кратковременно оглушает вражескую цель, а затем наносит ей и всем окружающим её противникам урон, пропорциональный числу отсутствующей у неё маны."
+"DOTA_Tooltip_ability_antimage_mana_void_custom_Lore"									"Одолев врагов, борец с магией карает их за использование тайных искусств."
+"DOTA_Tooltip_ability_antimage_mana_void_custom_Note0"									"Урон зависит от количества маны у цели, но наносится всем противникам в радиусе действия способности."
+"DOTA_Tooltip_ability_antimage_mana_void_custom_mana_void_damage_per_mana"				"УРОН ЗА ЕДИНИЦУ МАНЫ:"
+"DOTA_Tooltip_ability_antimage_mana_void_custom_mana_void_ministun"						"ДЛИТЕЛЬНОСТЬ ОГЛУШЕНИЯ:"
+"DOTA_Tooltip_ability_antimage_mana_void_custom_mana_void_aoe_radius"					"РАДИУС:"
+
+
+"DOTA_Tooltip_ability_antimage_spell_seal_custom"										"Spell Seal"
+"DOTA_Tooltip_ability_antimage_spell_seal_custom_Description"							"Накладывает печать на выбранную цель<br><br>Если под действием печати, противник использует заклинание, он лишится %mana%%% маны и получит равное количество магического урона"
+"DOTA_Tooltip_ability_antimage_spell_seal_custom_Lore"									"Одолев врагов, борец с магией карает их за использование тайных искусств."
+"DOTA_Tooltip_ability_antimage_spell_seal_custom_duration"								"ДЛИТЕЛЬНОСТЬ ПЕЧАТИ:"
+"DOTA_Tooltip_ability_antimage_spell_seal_custom_mana"									"%ПОТЕРЯ ОТ МАКС. МАНЫ:"
+
+
+
+
+"font_disc_modifier_antimage_void_1" "22"
+"upgrade_disc_modifier_antimage_void_1_1" "Урон Mana Void увеличивается на <b><span class='green-text'>10%</span></b> от максимальной маны противника"
+"upgrade_disc_modifier_antimage_void_1_2" "Урон Mana Void увеличивается на <b><span class='green-text'>15%</span></b> от максимальной маны противника"
+"upgrade_disc_modifier_antimage_void_1_3" "Урон Mana Void увеличивается на <b><span class='green-text'>20%</span></b> от максимальной маны противника"
+
+"talent_disc_modifier_antimage_void_1_0" "Урон Mana Void увеличивается на <b><font color='#297016'>10%</span></b>/<b><font color='#297016'>15%</span></b>/<b><font color='#297016'>20%</span></b> от максимальной маны противника"
+"talent_disc_modifier_antimage_void_1_1" "Урон Mana Void увеличивается на <b><span class='green-text'>10%</span></b>/<b><font color='#297016'>15%</span></b>/<b><font color='#297016'>20%</span></b> от максимальной маны противника"
+"talent_disc_modifier_antimage_void_1_2" "Урон Mana Void увеличивается на <b><font color='#297016'>10%</span></b>/<b><span class='green-text'>15%</span></b>/<b><font color='#297016'>20%</span></b> от максимальной маны противника"
+"talent_disc_modifier_antimage_void_1_3" "Урон Mana Void увеличивается на <b><font color='#297016'>10%</span></b>/<b><font color='#297016'>15%</span></b>/<b><span class='green-text'>20%</span></b> от максимальной маны противника"
+
+
+
+"font_disc_modifier_antimage_void_2" "24"
+"upgrade_disc_modifier_antimage_void_2_1" "<b><span class='green-text'>-20</span></b> секунд перезарядки Mana Void"
+"upgrade_disc_modifier_antimage_void_2_2" "<b><span class='green-text'>-30</span></b> секунд перезарядки Mana Void"
+"upgrade_disc_modifier_antimage_void_2_3" "<b><span class='green-text'>-40</span></b> секунд перезарядки Mana Void"
+
+"talent_disc_modifier_antimage_void_2_0" "<b><font color='#297016'>-20</span></b>/<b><font color='#297016'>-30</span></b>/<b><font color='#297016'>-40</span></b> секунд перезарядки Mana Void"
+"talent_disc_modifier_antimage_void_2_1" "<b><span class='green-text'>-20</span></b>/<b><font color='#297016'>-30</span></b>/<b><font color='#297016'>-40</span></b> секунд перезарядки Mana Void"
+"talent_disc_modifier_antimage_void_2_2" "<b><font color='#297016'>-20</span></b>/<b><span class='green-text'>-30</span></b>/<b><font color='#297016'>-40</span></b> секунд перезарядки Mana Void"
+"talent_disc_modifier_antimage_void_2_3" "<b><font color='#297016'>-20</span></b>/<b><font color='#297016'>-30</span></b>/<b><span class='green-text'>-40</span></b> секунд перезарядки Mana Void"
+
+
+"font_disc_modifier_antimage_void_3" "20"
+"upgrade_disc_modifier_antimage_void_3_1" "Противники рядом с вами пассивно получают магический урон каждую секунду<br><br>Урон: <b><span class='green-text'>3%</span></b> от максимальной маны противника"
+"upgrade_disc_modifier_antimage_void_3_2" "Противники рядом с вами пассивно получают магический урон каждую секунду<br><br>Урон: <b><span class='green-text'>4.5%</span></b> от максимальной маны противника"
+"upgrade_disc_modifier_antimage_void_3_3" "Противники рядом с вами пассивно получают магический урон каждую секунду<br><br>Урон: <b><span class='green-text'>6%</span></b> от максимальной маны противника"
+
+"talent_disc_modifier_antimage_void_3_0" "Противники рядом с вами пассивно получают магический урон каждую секунду<br><br>Урон: <b><font color='#297016'>3%</span></b>/<b><font color='#297016'>4.5%</span></b>/<b><font color='#297016'>6%</span></b> от максимальной маны противника"
+"talent_disc_modifier_antimage_void_3_1" "Противники рядом с вами пассивно получают магический урон каждую секунду<br><br>Урон: <b><span class='green-text'>3%</span></b>/<b><font color='#297016'>4.5%</span></b>/<b><font color='#297016'>6%</span></b> от максимальной маны противника"
+"talent_disc_modifier_antimage_void_3_2" "Противники рядом с вами пассивно получают магический урон каждую секунду<br><br>Урон: <b><font color='#297016'>3%</span></b>/<b><span class='green-text'>4.5%</span></b>/<b><font color='#297016'>6%</span></b> от максимальной маны противника"
+"talent_disc_modifier_antimage_void_3_3" "Противники рядом с вами пассивно получают магический урон каждую секунду<br><br>Урон: <b><font color='#297016'>3%</span></b>/<b><font color='#297016'>4.5%</span></b>/<b><span class='green-text'>6%</span></b> от максимальной маны противника"
+
+
+
+"DOTA_Tooltip_modifier_antimage_mana_void_custom_aura_damage"									"Mana Void"
+"DOTA_Tooltip_modifier_antimage_mana_void_custom_aura_damage_Description"						"Получает <b><font color='#ff0000'>%dMODIFIER_PROPERTY_TOOLTIP%</span></b> магического урона в секунду"
+
+
+"font_disc_modifier_antimage_void_4" "20"
+"upgrade_disc_modifier_antimage_void_4_1" "Каждая атака увеличивает максимальный запас маны цели на <b><span class='green-text'>4%</span></b> от вашей максимальной маны<br><br>Эффект суммируется 8 раз"
+"upgrade_disc_modifier_antimage_void_4_2" "Каждая атака увеличивает максимальный запас маны цели на <b><span class='green-text'>6%</span></b> от вашей максимальной маны<br><br>Эффект суммируется 8 раз"
+
+"talent_disc_modifier_antimage_void_4_0" "Каждая атака увеличивает максимальный запас маны цели на <b><font color='#297016'>4%</span></b>/<b><font color='#297016'>6%</span></b> от вашей максимальной маны<br><br>Эффект суммируется 8 раз"
+"talent_disc_modifier_antimage_void_4_1" "Каждая атака увеличивает максимальный запас маны цели на <b><span class='green-text'>4%</span></b>/<b><font color='#297016'>6%</span></b> от вашей максимальной маны<br><br>Эффект суммируется 8 раз"
+"talent_disc_modifier_antimage_void_4_2" "Каждая атака увеличивает максимальный запас маны цели на <b><font color='#297016'>4%</span></b>/<b><span class='green-text'>6%</span></b> от вашей максимальной маны<br><br>Эффект суммируется 8 раз"
+"mini_disc_modifier_antimage_void_4" "Атаки увеличивают максимальный запас маны цели"
+
+
+
+"font_disc_modifier_antimage_void_5" "18"
+"upgrade_disc_modifier_antimage_void_5_1" "Перезарядка Mana Void сокращается на <b><span class='green-text'>5</span></b> секунд за каждые 500 маны, потраченные противниками неподалёку<br><br>В момент срабатывания, вы оглушаете всех противников на <b><span class='green-text'>0.3</span></b> секунды<br><br>Эффект также срабатывает от вашей потраченной маны"
+"mini_disc_modifier_antimage_void_5" "Потраченная мана сокращает перезарядку Mana Void"
+
+
+
+"DOTA_Tooltip_modifier_antimage_mana_void_custom_int"									"Mana Void"
+"DOTA_Tooltip_modifier_antimage_mana_void_custom_int_Description"						"Максимальный запас маны увеличен на <b><font color='#ff0000'>%dMODIFIER_PROPERTY_MANA_BONUS%</span></b>"
+
+"font_disc_modifier_antimage_void_6" "19"
+"upgrade_disc_modifier_antimage_void_6_1" "Перед нанесением урона, Mana Void отключает пассивные способности цели и замедляет ее на <b><span class='green-text'>80%</span></b><br><br>Длительность: 4 секунды"
+"mini_disc_modifier_antimage_void_6" "Mana Void отключает пассивные способности и замедляет"
+
+
+"DOTA_Tooltip_modifier_antimage_mana_void_custom_slow"									"Mana Void"
+"DOTA_Tooltip_modifier_antimage_mana_void_custom_slow_Description"						"Скорость передвижения снижена на <b><font color='#ff0000'>%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%</span></b>"
+
+
+"font_disc_modifier_antimage_void_7" "17"
+"upgrade_disc_modifier_antimage_void_7" "Новая способность<br>Перезарядка: 25 секунд<br><br>Накладывает печать на выбранную цель на <b><span class='orange-text'>8</span></b> секунд<br><br>Если под действием печати, противник использует заклинание, он лишится <b><span class='orange-text'>15%</span></b> маны и получит равное количество магического урона"
+"mini_disc_modifier_antimage_void_7" "Новая способность: Запрещает противнику применять заклинания"
+
+"DOTA_Tooltip_modifier_antimage_mana_void_custom_legendary"									"Spell Seal"
+"DOTA_Tooltip_modifier_antimage_mana_void_custom_legendary_Description"						"Применение способностей нанесет магический урон"
+
+
+
