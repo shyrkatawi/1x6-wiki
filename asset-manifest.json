@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1x6-wiki/static/css/main.77cc5b8b.css",
+    "main.js": "/1x6-wiki/static/js/main.b2730009.js",
+    "index.html": "/1x6-wiki/index.html",
+    "main.77cc5b8b.css.map": "/1x6-wiki/static/css/main.77cc5b8b.css.map",
+    "main.b2730009.js.map": "/1x6-wiki/static/js/main.b2730009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77cc5b8b.css",
+    "static/js/main.b2730009.js"
+  ]
+}
