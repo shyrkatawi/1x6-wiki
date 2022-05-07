@@ -14,31 +14,36 @@
 }
 
 .screen-wrapper {
-  display: inline-block;
   margin: auto;
+  display: inline-block;
 }
 
 .hero-attribute {
+  margin: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 20px;
 }
 
 .hero-attribute__text {
+  margin-left: 2px;
+
   justify-content: center;
+
+  color: white;
   font-family: 'Feast of Flesh Italic', sans-serif;
   font-size: 32px;
-  margin-left: 2px;
   letter-spacing: 1px;
-  color: white;
 }
 
 .hero-portrait {
-  z-index: 1;
+  /*margin: 8px 8px 8px 0;*/
+  margin-top: 8px;
+  margin-right: 8px;
+  margin-left: 0;
+  margin-bottom: 8px;
   position: relative;
   display: inline-block;
-  margin: 8px 8px 8px 0;
 
   max-width: 200px;
   min-width: 150px;
@@ -47,22 +52,26 @@
 
   box-shadow: 0 0 2px 0 rgba(255, 255, 255, 0.2), 1px 6px 20px 1px rgba(0, 0, 0, 0.5);
   transition: all 0.3s ease-in-out;
+  z-index: 1;
 }
 
 .hero-portrait__img {
-  overflow: hidden;
   width: 100%;
   height: 100%;
+  overflow: hidden;
 }
 
 .hero-portrait__text {
+  position: absolute;
+  bottom: 0;
+
+  width: 100%;
+
   font-family: 'Feast of Flesh Regular', sans-serif;
   font-size: 24px;
   text-align: center;
-  position: absolute;
-  bottom: 0;
   color: white;
-  width: 100%;
+
   transform: translateY(+5px);
   visibility: hidden;
   transition: all 0.2s ease-in-out;
@@ -77,16 +86,8 @@
       rgba(0, 0, 0, 0.75) 70%,
       rgb(0, 0, 0, 0.9) 100%
     ),
-    linear-gradient(
-      to right,
-      rgba(0, 0, 0, 0.1) 70%,
-      rgb(0, 0, 0, 0.8) 100%
-    ),
-    linear-gradient(
-      to left,
-      rgba(0, 0, 0, 0.1) 70%,
-      rgb(0, 0, 0, 0.8) 100%
-    );
+    linear-gradient(to right, rgba(0, 0, 0, 0.1) 70%, rgb(0, 0, 0, 0.8) 100%),
+    linear-gradient(to left, rgba(0, 0, 0, 0.1) 70%, rgb(0, 0, 0, 0.8) 100%);
 }
 
 .hero-portrait:hover > a > .hero-portrait__text {

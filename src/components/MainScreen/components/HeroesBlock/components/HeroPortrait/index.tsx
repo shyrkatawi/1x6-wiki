@@ -1,11 +1,11 @@
 import React from 'react';
 import { useDispatch } from 'react-redux';
 import { Link } from 'react-router-dom';
-import { IHero } from '../../entities/interfaces';
-import heroesActions from '../../redux/actions/heroes-actions';
+import heroesActions from '../../../../../../redux/actions/heroes-actions';
+import {THero} from "../../types";
 
 interface Props {
-  hero: IHero;
+  hero: THero;
 }
 const HeroPortrait: React.FC<Props> = ({ hero }) => {
   const dispatch = useDispatch();

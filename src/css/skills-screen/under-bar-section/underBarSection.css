@@ -9,12 +9,10 @@
 }
 
 .underBarSection {
-  height: 135px;
-
-  /*border: white solid 3px;*/
   margin-top: 3%;
   display: flex;
   flex-direction: row;
+  height: 135px;
 
   color: #eaeaea;
   font-size: 12px;
@@ -25,15 +23,15 @@
 }
 
 .prev-next-hero-block {
+  /*border: red solid 3px;*/
+  position: relative;
+
+  padding: 18px 10px 0 50px;
+  display: flex;
+  width: 390px;
+
   background-image: url('http://localhost:3000/grey_painterly_wide.png');
   box-shadow: 2px 2px 1px #000;
-
-  /*border: red solid 3px;*/
-  width: 390px;
-  display: flex;
-  position: relative;
-  padding: 18px 10px 0 50px;
-
   transition: filter 0.2s ease-in-out;
 }
 
@@ -42,11 +40,13 @@
 }
 
 .prev-next-hero-block > .portraitImg {
-  z-index: 1;
   position: absolute;
-  height: 150px;
   bottom: 0;
+
+  height: 150px;
+
   transition: transform 0.2s ease-in-out;
+  z-index: 1;
 }
 
 .previous-hero-block > .portraitImg {
@@ -58,24 +58,26 @@
 }
 
 .prev-next-hero-block > .description {
-  width: 200px;
-  z-index: 2;
-
-  text-align: left;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   gap: 5px;
+
+  width: 200px;
+
+  text-align: left;
+
+  z-index: 2;
 }
 
 .prev-next-hero-block > .description > .heroName {
+  display: flex;
+
+  color: white;
   font-family: 'Feast of Flesh Italic', sans-serif;
   font-size: 24px;
   letter-spacing: 0;
-  /*height: 48px;*/
-  display: flex;
   text-align: left;
-  color: white;
 }
 
 .prev-next-hero-block > .description > .heroInfo {

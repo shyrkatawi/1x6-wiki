@@ -1,10 +1,10 @@
 import React from 'react';
-import Skill from './Skill';
-import { ISkill, ISkillTree } from '../../entities/interfaces';
-import { SkillDescriptionPosition } from '../../entities/enums';
+import Skill from './components/Skill';
+import {SkillDescriptionPosition, TSkill} from "./components/Skill/types";
+import {TSkillTree} from "./types";
 
 interface Props {
-  skillTree: ISkillTree;
+  skillTree: TSkillTree;
   skillDescriptionPosition: SkillDescriptionPosition;
 }
 
@@ -21,7 +21,7 @@ const SkillTree: React.FC<Props> = ({ skillTree, skillDescriptionPosition }) => 
       </div>
       <div className="skill-block">
         <div className="purpleSkills">
-          {skillTree.purpleSkills.map((purpleSkill: ISkill, index: number) => (
+          {skillTree.purpleSkills.map((purpleSkill: TSkill, index: number) => (
             <Skill
               key={index}
               skill={purpleSkill}
@@ -32,7 +32,7 @@ const SkillTree: React.FC<Props> = ({ skillTree, skillDescriptionPosition }) => 
       </div>
       <div className="skill-block">
         <div className="blueSkills">
-          {skillTree.blueSkills.map((blueSkill: ISkill, index: number) => (
+          {skillTree.blueSkills.map((blueSkill: TSkill, index: number) => (
             <Skill
               key={index}
               skill={blueSkill}

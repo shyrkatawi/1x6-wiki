@@ -8,13 +8,15 @@
 
 
 body {
+  padding: 2% 5%;
+
   background-image: url('http://localhost:3000/greyfade.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
 
   justify-content: center;
+
   text-align: center;
-  padding: 2% 5%;
 }
 
 *, *:before, *:after {

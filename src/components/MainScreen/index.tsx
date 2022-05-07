@@ -1,25 +1,25 @@
 import React, { useMemo } from 'react';
 import { useSelector } from 'react-redux';
 import { RootState } from '../../redux/store';
-import { IHero } from '../../entities/interfaces';
-import { HeroAttribute } from '../../entities/enums';
-import HeroesBlock from './HeroesBlock';
+import HeroesBlock from './components/HeroesBlock';
+import {THero} from "./components/HeroesBlock/types";
+import {HeroAttribute} from "./constants";
 
 interface HeroesByAttribute {
-  strength: IHero[];
-  agility: IHero[];
-  intelligence: IHero[];
+  strength: THero[];
+  agility: THero[];
+  intelligence: THero[];
 }
 
 const MainScreen = () => {
-  const heroes: IHero[] = useSelector((state: RootState) => state.heroes.heroes);
+  const heroes: THero[] = useSelector((state: RootState) => state.heroes.heroes);
   const heroesByAttribute = useMemo(() => {
     const heroesByAttributeMemo: HeroesByAttribute = {
       strength: [],
       agility: [],
       intelligence: [],
     };
-    heroes.forEach((hero: IHero) => {
+    heroes.forEach((hero: THero) => {
       heroesByAttributeMemo[hero.attribute].push(hero);
     });
     return heroesByAttributeMemo;

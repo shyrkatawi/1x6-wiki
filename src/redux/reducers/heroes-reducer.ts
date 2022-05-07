@@ -1,11 +1,11 @@
 import { AnyAction } from 'redux';
-import { HeroesReducerValues } from '../helper';
-import { IHero } from '../../entities/interfaces';
+import { HeroesReducerValues } from '../constants';
+import {THero} from "../../components/MainScreen/components/HeroesBlock/types";
 
-interface HeroesState {
-  heroes: IHero[];
+type HeroesState = {
+  heroes: THero[];
   currentHeroId: number;
-  currentHero: IHero | null;
+  currentHero: THero | null;
 }
 
 const initialState = {

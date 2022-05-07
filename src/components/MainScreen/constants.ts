@@ -4,4 +4,8 @@ export const heroAttributesImg = {
   intelligence: 'http://localhost:3000/assets/attributes/hero-attribute-intelligence.png',
 };
 
-export const tmp = {}
+export enum HeroAttribute {
+  STRENGTH = 'strength',
+  AGILITY = 'agility',
+  INTELLIGENCE = 'intelligence',
+}

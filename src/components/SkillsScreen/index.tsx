@@ -1,14 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
 import ReactPlayer from 'react-player';
-import SkillTreeComponent from './SkillTree';
+import SkillTreeComponent from './components/SkillTree';
 import { RootState } from '../../redux/store';
-import { SkillDescriptionPosition } from '../../entities/enums';
-import { ISkillTrees } from '../../entities/interfaces';
-import UnderBarSection from './under-bar-section/UnderBarSection';
+import UnderBarSection from './components/UnderBarSection';
+import {TSkillTrees} from "./components/SkillTree/types";
+import {SkillDescriptionPosition} from "./components/SkillTree/components/Skill/types";
 
 const SkillsScreen: React.FC = () => {
-  const skillTrees: ISkillTrees = useSelector((state: RootState) => state.heroes.currentHero.skillTrees);
+  const skillTrees: TSkillTrees = useSelector((state: RootState) => state.heroes.currentHero.skillTrees);
   const videoUrlFromStore: string = useSelector((state: RootState) => state.skillTrees.videoUrl);
 
   const [videoUrl, setVideoUrl] = useState(videoUrlFromStore);

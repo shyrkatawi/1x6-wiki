@@ -1,12 +1,11 @@
 import React from 'react';
 import { Markup } from 'interweave';
 import { useDispatch } from 'react-redux';
-import { ISkill } from '../../entities/interfaces';
-import { SkillDescriptionPosition, SkillType } from '../../entities/enums';
-import skillTreesActions from '../../redux/actions/skillTrees-actions';
+import skillTreesActions from '../../../../../../redux/actions/skillTrees-actions';
+import {SkillDescriptionPosition, SkillType, TSkill} from "./types";
 
 interface Props {
-  skill: ISkill;
+  skill: TSkill;
   skillDescriptionPosition: SkillDescriptionPosition;
 }
 

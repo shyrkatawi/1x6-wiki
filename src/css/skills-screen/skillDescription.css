@@ -1,18 +1,20 @@
 .skillDescription {
-    visibility: hidden;
+    position: absolute;
+
+    padding: 10px;
     width: 420px;
     max-height: 420px;
-    background-color: #252b2e;
     border: #000000 solid 3px;
-    padding: 10px;
-    position: absolute;
-    z-index: 3;
+    background-color: #252b2e;
 
+    color: #fff;
     font-family: Monaco, sans-serif;
     letter-spacing: 1px;
-    color: #fff;
     text-align: left;
     font-size: 18px;
+
+    visibility: hidden;
+    z-index: 3;
 }
 
 .orangeSkill > .skillDescriptionPosition-right {

@@ -1,7 +1,7 @@
 import { AnyAction } from 'redux';
-import { SkillTreesReducerValues } from '../helper';
+import { SkillTreesReducerValues } from '../constants';
 
-interface SkillTreesState {
+type SkillTreesState = {
   videoUrl: string;
 }
 

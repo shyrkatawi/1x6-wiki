@@ -1,16 +1,16 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
-import PreviousOrNextHero from './PreviousOrNextHero';
-import ToAllHeroesContainer from './ToAllHeroesContainer';
-import { RootState } from '../../../redux/store';
-import { IHero } from '../../../entities/interfaces';
+import PreviousOrNextHero from './components/PreviousOrNextHero';
+import ToAllHeroesContainer from './components/ToAllHeroesContainer';
+import { RootState } from '../../../../redux/store';
+import {THero} from "../../../MainScreen/components/HeroesBlock/types";
 
 const UnderBarSection: React.FC = () => {
   const currentHeroId: number = useSelector((state: RootState) => state.heroes.currentHero.id);
-  const heroes: IHero[] = useSelector((state: RootState) => state.heroes.heroes);
+  const heroes: THero[] = useSelector((state: RootState) => state.heroes.heroes);
 
-  const getPrevHero = (): IHero => {
+  const getPrevHero = (): THero => {
     let idForSearching: number;
     if (currentHeroId === 1) {
       idForSearching = heroes.length;
@@ -25,7 +25,7 @@ const UnderBarSection: React.FC = () => {
     return { ...heroes[0] };
   };
 
-  const getNextHero = (): IHero => {
+  const getNextHero = (): THero => {
     let idForSearching: number;
     if (currentHeroId === heroes.length) {
       idForSearching = 1;
@@ -40,8 +40,8 @@ const UnderBarSection: React.FC = () => {
     return { ...heroes[0] };
   };
 
-  const previousHero: IHero = getPrevHero();
-  const nextHero: IHero = getNextHero();
+  const previousHero: THero = getPrevHero();
+  const nextHero: THero = getNextHero();
 
   return (
     <div className="underBarSection">

@@ -4,16 +4,20 @@ export enum SkillType {
   BLUE = 'blue',
 }
 
-export enum HeroAttribute {
-  STRENGTH = 'strength',
-  AGILITY = 'agility',
-  INTELLIGENCE = 'intelligence',
-}
+export type TSkill = {
+  description: string;
+  levelsImg: string;
+  maxLevel: number;
+  skillImg: string;
+  videoUrl: string;
+  type: SkillType;
+};
 
 export enum SkillDescriptionPosition {
   LEFT = 'LEFT',
   RIGHT = 'RIGHT',
 }
+
 export enum AttackType {
   MELEE = 'melee',
   RANGE = 'range',

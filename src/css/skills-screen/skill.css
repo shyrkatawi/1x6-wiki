@@ -44,31 +44,36 @@
 .skill {
   padding-top: 4px;
   margin: 7px;
+
   animation-iteration-count: infinite;
   animation-duration: 3s;
 }
 
 .orangeSkill {
-  animation-name: CardAnimationOrange;
+  position: relative;
+
   padding: 8px;
   display: flex;
   flex-direction: column;
-  position: relative;
+
+  animation-name: CardAnimationOrange;
   background-color: black;
 }
 
 .orangeSkill > .skill-hint {
+  position: absolute;
+  top: 0;
+  right: 0;
+
   display: inline-block;
   max-width: 50px;
-  position: absolute;
-  right: 0;
-  top: 0;
+
   transform: translate(+5px, -5px);
 }
 
 .orange-skill-img {
-  display: inline-block;
   margin: 2px auto 8px;
+  display: inline-block;
   width: 80px;
   height: 80px;
 }
@@ -80,17 +85,19 @@
 
 .purpleSkills,
 .blueSkills {
-  display: grid;
-  grid-template-areas: 's1 s2 s3';
   margin: 0 5px;
   padding-top: 4px;
+  display: grid;
+  grid-template-areas: 's1 s2 s3';
 }
 
 .purpleSkill,
 .blueSkill {
-  background-color: black;
-  flex-direction: column;
   position: relative;
+
+  flex-direction: column;
+
+  background-color: black;
 }
 
 .purpleSkill {
@@ -105,8 +112,8 @@
 .blue-skill-img {
   padding-top: 4px;
   max-width: 45px;
-  max-height: 45px;
   min-width: 45px;
+  max-height: 45px;
   min-height: 45px;
 }
 
@@ -119,10 +126,12 @@
 
 .purpleSkill > .skill-hint,
 .blueSkill > .skill-hint {
+  position: absolute;
+  top: 0;
+  right: 0;
+
   display: inline-block;
   max-width: 20px;
-  position: absolute;
-  right: 0;
-  top: 0;
+
   transform: translate(+5px, -5px);
 }

@@ -2,13 +2,13 @@ import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 import { useSelector } from 'react-redux';
-import SkillsScreen from './components/skills-screen/SkillsScreen';
-import MainScreen from './components/main-screen/MainScreen';
-import { IHero } from './entities/interfaces';
+import SkillsScreen from './components/SkillsScreen';
+import MainScreen from './components/MainScreen';
 import { RootState } from './redux/store';
+import {THero} from "./components/MainScreen/components/HeroesBlock/types";
 
 function App() {
-  const heroes: IHero[] = useSelector((state: RootState) => state.heroes.heroes);
+  const heroes: THero[] = useSelector((state: RootState) => state.heroes.heroes);
   if (heroes.length === 0) {
     return <div>Loading...</div>;
   }

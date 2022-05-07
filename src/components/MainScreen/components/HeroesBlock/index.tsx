@@ -1,12 +1,11 @@
 import React from 'react';
-import { IHero } from '../../entities/interfaces';
-import { HeroAttribute } from '../../entities/enums';
-import HeroPortrait from './HeroPortrait';
-import { heroAttributesImg } from '../../entities/constants';
+import HeroPortrait from './components/HeroPortrait';
+import {THero} from "./types";
+import {HeroAttribute, heroAttributesImg} from "../../constants";
 
 interface Props {
   heroAttribute: HeroAttribute;
-  heroes: IHero[];
+  heroes: THero[];
 }
 
 const HeroesBlock: React.FC<Props> = ({ heroAttribute, heroes }) => {
@@ -17,7 +16,7 @@ const HeroesBlock: React.FC<Props> = ({ heroAttribute, heroes }) => {
         <span className="hero-attribute__text">{heroAttribute}</span>
       </div>
       <div className="hero-portraits">
-        {heroes.map((hero: IHero) => (
+        {heroes.map((hero: THero) => (
           <HeroPortrait key={hero.id} hero={hero} />
         ))}
       </div>
